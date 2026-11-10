@@ -5,7 +5,7 @@ who loves math and programming.
 
 Some fun facts about me...
 
-* Philosophy as an amateur programmer:
+* Mindset as an amateur programmer:
 ```cpp
 int main() {
     const bool loveProgramming = true;
@@ -20,6 +20,6 @@ int main() {
 }
 ```
 * I LOVE MUSIC (You can find me in [Spotify](https://open.spotify.com/user/31xo5tnvccujg3xqbvu6zze44fle?si=915c7ef327154a0f))
-* I have a [YouTube channel](https://www.youtube.com/@enochyu_official)
+* I have a [YouTube channel](https://www.youtube.com/@enochness)
 
 
